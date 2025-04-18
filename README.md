@@ -7,7 +7,7 @@ This project is a simple and uplifting web app that displays a random motivation
 - Display random motivational message
 - New message on each click
 - Responsive design (compatible with Bootstrap)
-- React Hooks usage (`useState`)
+- React Hooks usage 
 - User-friendly experience
 
 ## 🛠️ Technologies Used
